@@ -30,7 +30,11 @@
     "chat_model": {
       "adapter": "openai",
       "openai": {
-        "model_key": "gpt-4o"
+        "model_key": "gpt-4o",
+        "api_key": "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"
+      },
+      "gemini": {
+        "model_key": "gemini-1.5-pro"
       }
     },
     "embed_model": {

@@ -153,29 +153,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "508149276043c843",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
-            }
-          },
-          {
-            "id": "91b07669f832d554",
-            "type": "leaf",
-            "state": {
-              "type": "smart-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -195,7 +175,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "43dc6f8407684c6d",
+  "active": "4480e02f173cab46",
   "lastOpenFiles": [
     "README.md",
     "おかゆグループ地震計プロジェクト.md",
