@@ -143,9 +143,19 @@
               "icon": "lucide-list",
               "title": "おかゆグループ地震計プロジェクトのアウトライン"
             }
+          },
+          {
+            "id": "4480e02f173cab46",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -159,31 +169,32 @@
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "graph:グラフビューを開く": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cad010e1a1984240",
+  "active": "43dc6f8407684c6d",
   "lastOpenFiles": [
-    "README.md",
+    "震度計インストーラー.md",
+    "震度計.md",
+    "今後の予定.canvas",
     "おかゆグループ地震計プロジェクトとは？.md",
     "おかゆグループ地震計プロジェクト.md",
     "おかゆグループ地震センタ.md",
-    "震度計インストーラー.md",
-    "().md",
-    "震度計.md",
-    "2025-01-18.md",
+    "Pasted image 20241126183623.png",
     "Excalidraw/OGSPシステム総合.md",
+    "Excalidraw/OGSPシステム総合-20250113.png",
+    "Excalidraw/851tegaki_zatsu_normal_0883.ttf",
+    "Excalidraw",
+    "README.md",
+    "().md",
+    "2025-01-18.md",
     "[[おかゆグループ地震センタ]].md",
     "Excalidraw/OGSPシステム総合.png",
-    "Excalidraw/OGSPシステム総合-20250113.png",
-    "Pasted image 20241126183623.png",
-    "今後の予定.canvas",
     "2024-11-24.md",
     "OGSP.md",
-    "Excalidraw/851tegaki_zatsu_normal_0883.ttf",
     "Excalidraw/無題-2024-11-24-0828.excalidraw",
     "Excalidraw/Drawing 2024-11-24 10.59.51.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-24 10.59.38.excalidraw.md",
-    "Excalidraw"
+    "Excalidraw/Drawing 2024-11-24 10.59.38.excalidraw.md"
   ]
 }
