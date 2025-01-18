@@ -2,5 +2,6 @@
   "interfaceFontFamily": "Noto Sans JP",
   "textFontFamily": "Noto Sans JP",
   "monospaceFontFamily": "源ノ角ゴシック Code JP,Noto Sans JP",
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "theme": "obsidian"
 }
