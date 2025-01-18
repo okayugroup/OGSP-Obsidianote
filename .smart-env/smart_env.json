@@ -1,7 +1,8 @@
 {
   "is_obsidian_vault": true,
   "smart_blocks": {
-    "embed_blocks": true
+    "embed_blocks": true,
+    "min_chars": "300"
   },
   "smart_sources": {
     "single_file_data_path": ".smart-env/smart_sources.json",
@@ -24,5 +25,20 @@
     "render_markdown": true,
     "show_full_path": false
   },
-  "excluded_headings": ""
+  "excluded_headings": "",
+  "smart_threads": {
+    "chat_model": {
+      "adapter": "openai",
+      "openai": {
+        "model_key": "gpt-4o"
+      }
+    },
+    "embed_model": {
+      "model_key": "None"
+    },
+    "language": "en",
+    "review_context": false,
+    "lookup_limit": "10",
+    "send_tool_output_in_user_message": false
+  }
 }
