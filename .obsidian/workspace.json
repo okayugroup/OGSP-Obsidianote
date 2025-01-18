@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "bb899c0db2719ab2",
+    "type": "split",
+    "children": [
+      {
+        "id": "14a77dcdbe6916de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43dc6f8407684c6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "おかゆグループ地震計プロジェクト.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "おかゆグループ地震計プロジェクト"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af6b1c9c348a3d3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "51620a7b0b31a016",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cad010e1a1984240",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "a4756faf67be58de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#災害",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "68448ef654218fa6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b65a364c77eb73e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c3500958e62eb95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32863a26c4ff66f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/無題-2024-11-24-0828.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "無題-2024-11-24-0828.excalidrawへのバックリンク"
+            }
+          },
+          {
+            "id": "d9834c141a7ba820",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f1987b68da395601",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5af81372775c6bd0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "おかゆグループ地震計プロジェクト.md"
+              },
+              "icon": "lucide-list",
+              "title": "おかゆグループ地震計プロジェクトのアウトライン"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "graph:グラフビューを開く": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "cad010e1a1984240",
+  "lastOpenFiles": [
+    "README.md",
+    "おかゆグループ地震計プロジェクトとは？.md",
+    "おかゆグループ地震計プロジェクト.md",
+    "おかゆグループ地震センタ.md",
+    "震度計インストーラー.md",
+    "().md",
+    "震度計.md",
+    "2025-01-18.md",
+    "Excalidraw/OGSPシステム総合.md",
+    "[[おかゆグループ地震センタ]].md",
+    "Excalidraw/OGSPシステム総合.png",
+    "Excalidraw/OGSPシステム総合-20250113.png",
+    "Pasted image 20241126183623.png",
+    "今後の予定.canvas",
+    "2024-11-24.md",
+    "OGSP.md",
+    "Excalidraw/851tegaki_zatsu_normal_0883.ttf",
+    "Excalidraw/無題-2024-11-24-0828.excalidraw",
+    "Excalidraw/Drawing 2024-11-24 10.59.51.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-24 10.59.38.excalidraw.md",
+    "Excalidraw"
+  ]
+}
