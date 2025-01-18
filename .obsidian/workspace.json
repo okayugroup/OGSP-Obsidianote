@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "おかゆグループ地震計プロジェクト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "おかゆグループ地震計プロジェクト"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "おかゆグループ地震計プロジェクト.md"
               },
               "icon": "lucide-list",
-              "title": "READMEのアウトライン"
+              "title": "おかゆグループ地震計プロジェクトのアウトライン"
             }
           },
           {
@@ -177,8 +177,8 @@
   },
   "active": "43dc6f8407684c6d",
   "lastOpenFiles": [
-    "おかゆグループ地震計プロジェクト.md",
     "README.md",
+    "おかゆグループ地震計プロジェクト.md",
     "震度計インストーラー.md",
     "震度計.md",
     "今後の予定.canvas",
