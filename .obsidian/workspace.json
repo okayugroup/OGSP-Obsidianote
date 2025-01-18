@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "おかゆグループ地震計プロジェクト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "おかゆグループ地震計プロジェクト"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "おかゆグループ地震計プロジェクト.md"
               },
               "icon": "lucide-list",
-              "title": "READMEのアウトライン"
+              "title": "おかゆグループ地震計プロジェクトのアウトライン"
             }
           },
           {
@@ -153,9 +153,29 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "508149276043c843",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
+          },
+          {
+            "id": "91b07669f832d554",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Chat"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -170,11 +190,14 @@
       "command-palette:コマンドパレットを開く": false,
       "graph:グラフビューを開く": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "43dc6f8407684c6d",
+  "active": "91b07669f832d554",
   "lastOpenFiles": [
+    "README.md",
     "おかゆグループ地震計プロジェクト.md",
     "震度計インストーラー.md",
     "震度計.md",
@@ -186,7 +209,6 @@
     "Excalidraw/OGSPシステム総合-20250113.png",
     "Excalidraw/851tegaki_zatsu_normal_0883.ttf",
     "Excalidraw",
-    "README.md",
     "().md",
     "2025-01-18.md",
     "[[おかゆグループ地震センタ]].md",
