@@ -202,11 +202,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b43c08044ed7fd02",
+  "active": "cad010e1a1984240",
   "lastOpenFiles": [
+    "canvas",
     "docs/震度計.md",
     "docs/震度計インストーラー.md",
-    "今後の予定.canvas",
+    "canvas/今後の予定.canvas",
     "docs/おかゆグループ地震センタ.md",
     "docs",
     "daily/yossy4411/2025-01-25.md",
