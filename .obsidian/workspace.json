@@ -198,8 +198,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b43c08044ed7fd02",
+  "active": "cad010e1a1984240",
   "lastOpenFiles": [
+    "docs/ogsp-disaster-prevention/src/main.rs",
+    "docs/ogsp-disaster-prevention/src",
+    "docs/ogsp-disaster-prevention/README.md",
+    "docs/ogsp-disaster-prevention/Cargo.toml",
+    "docs/ogsp-disaster-prevention/Cargo.lock",
+    "docs/ogsp-disaster-prevention",
     "docs/おかゆグループ地震計プロジェクト.md",
     "docs/ogsp-prevention/src/main.rs",
     "docs/ogsp-prevention/src/font.rs",
@@ -210,12 +216,8 @@
     "docs/ogsp-prevention/docs/develop/wgpu.md",
     "docs/ogsp-prevention/docs/develop/iced-custom-font.md",
     "docs/ogsp-prevention/docs/develop/about-iced.md",
-    "docs/ogsp-prevention/resources/fonts",
     "docs/ogsp-prevention/docs/README.md",
-    "docs/ogsp-prevention/docs/develop",
     "docs/ogsp-prevention/README.md",
-    "docs/ogsp-prevention/resources",
-    "docs/ogsp-prevention/docs",
     "docs/震度計.md",
     "docs/震度計インストーラー.md",
     "canvas/今後の予定.canvas",

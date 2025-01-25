@@ -1,0 +1,3 @@
+[submodule "docs/ogsp-disaster-prevention"]
+	path = docs/ogsp-disaster-prevention
+	url = https://github.com/okayugroup/ogsp-disaster-prevention.git
