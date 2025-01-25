@@ -25,10 +25,14 @@
             "id": "b43c08044ed7fd02",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "docs/ogsp-disaster-prevention",
+                "bFile": "docs/ogsp-disaster-prevention",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: ogsp-disaster-prevention"
             }
           }
         ],
@@ -186,6 +190,11 @@
   },
   "active": "b43c08044ed7fd02",
   "lastOpenFiles": [
+    "docs/ogsp-disaster-prevention/docs/user/_index.md",
+    "docs/ogsp-disaster-prevention/docs/user",
+    "docs/ogsp-disaster-prevention/docs/develop/_index.md",
+    "docs/ogsp-disaster-prevention/docs/assets/_index.md",
+    "docs/ogsp-disaster-prevention/docs/assets",
     "docs/ogsp-disaster-prevention/docs/README.md",
     "README.md",
     "docs/ogsp-disaster-prevention/README.md",
@@ -200,8 +209,6 @@
     "docs/ogsp-disaster-prevention/docs/develop/about-iced.md",
     "docs/ogsp-disaster-prevention/docs/develop",
     "docs/ogsp-disaster-prevention/docs",
-    "docs/ogsp-disaster-prevention/src/main.rs",
-    "docs/ogsp-disaster-prevention/src",
     "docs/おかゆグループ地震計プロジェクト.md",
     "docs/ogsp-prevention/docs/develop/wgpu.md",
     "docs/ogsp-prevention/docs/develop/iced-custom-font.md",
@@ -226,8 +233,6 @@
     "無題のファイル.md",
     "Excalidraw/OGSPシステム総合-20250113.png",
     "().md",
-    "2025-01-18.md",
-    "[[おかゆグループ地震センタ]].md",
     "Excalidraw/OGSPシステム総合.png"
   ]
 }
