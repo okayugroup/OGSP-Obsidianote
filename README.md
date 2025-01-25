@@ -4,6 +4,8 @@
 このリポジトリは、チームで共有されており、変更があった場合、Obsidianを通してすぐに更新されます。
 
 おかゆグループ地震計プロジェクトの進捗や方向性を、リアルタイムで確認できます。
+
+メインのファイルは[こちら](docs/おかゆグループ地震計プロジェクト.md)です！
 ## リンク切れについて
 Obsidianでは、[[file]]と入力することで[/file.md]に対してリンクを作成できるようになっています。
 
@@ -13,7 +15,8 @@ Obsidianでは、[[file]]と入力することで[/file.md]に対してリンク
 
 ## サブモジュール
 このプロジェクトでは、子としていくつかのリポジトリ内のドキュメントに参照させています。
-- [OGSP Disaster Prevention](https://github.com/okayugroup/)
+- [OGSP Disaster Prevention](https://github.com/okayugroup/ogsp-disaster-prevention)
+これらのサブモジュールに含まれるドキュメントに向けたリンクは、GitHubで見ると移動がしづらいと思いますので、リポジトリ自体をクローンし、Obsidianで開くことをおすすめします。
 ## ライセンス
 このノートは[CC BY 4.0 License](LICENSE)の下で公開されています。
 
