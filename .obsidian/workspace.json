@@ -25,14 +25,14 @@
             "id": "b43c08044ed7fd02",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "docs/ogsp-disaster-prevention",
-                "bFile": "docs/ogsp-disaster-prevention",
-                "aRef": ""
+                "file": "docs/ogsp-disaster-prevention/README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: ogsp-disaster-prevention"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
