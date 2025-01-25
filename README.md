@@ -11,6 +11,9 @@ Obsidianでは、[[file]]と入力することで[/file.md]に対してリンク
 
 2025/1/25追記: リポジトリに含まれるすべてのリンクを修正しました。GitHubでも正常に飛べます。
 
+## サブモジュール
+このプロジェクトでは、子としていくつかのリポジトリ内のドキュメントに参照させています。
+- [OGSP Disaster Prevention](https://github.com/okayugroup/)
 ## ライセンス
 このノートは[CC BY 4.0 License](LICENSE)の下で公開されています。
 

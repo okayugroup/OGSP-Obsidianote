@@ -45,8 +45,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,21 +197,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cad010e1a1984240",
+  "active": "9e2ce1604fc6aec2",
   "lastOpenFiles": [
+    "docs/ogsp-disaster-prevention/src/font.rs",
+    "docs/ogsp-disaster-prevention/resources/fonts/ZenKakuGothicNew-Regular.ttf",
+    "docs/ogsp-disaster-prevention/resources/fonts/ZenKakuGothicNew-Bold.ttf",
+    "docs/ogsp-disaster-prevention/resources/fonts/ZenKakuGothicNew-Black.ttf",
+    "docs/ogsp-disaster-prevention/resources/fonts",
+    "docs/ogsp-disaster-prevention/resources",
+    "docs/ogsp-disaster-prevention/docs/develop/wgpu.md",
+    "docs/ogsp-disaster-prevention/docs/develop/iced-custom-font.md",
+    "docs/ogsp-disaster-prevention/docs/develop/about-iced.md",
+    "docs/ogsp-disaster-prevention/docs/README.md",
+    "docs/ogsp-disaster-prevention/docs/develop",
+    "docs/ogsp-disaster-prevention/docs",
     "docs/ogsp-disaster-prevention/src/main.rs",
     "docs/ogsp-disaster-prevention/src",
     "docs/ogsp-disaster-prevention/README.md",
     "docs/ogsp-disaster-prevention/Cargo.toml",
-    "docs/ogsp-disaster-prevention/Cargo.lock",
-    "docs/ogsp-disaster-prevention",
     "docs/おかゆグループ地震計プロジェクト.md",
-    "docs/ogsp-prevention/src/main.rs",
-    "docs/ogsp-prevention/src/font.rs",
-    "docs/ogsp-prevention/src",
-    "docs/ogsp-prevention/resources/fonts/ZenKakuGothicNew-Regular.ttf",
-    "docs/ogsp-prevention/resources/fonts/ZenKakuGothicNew-Black.ttf",
-    "docs/ogsp-prevention/resources/fonts/ZenKakuGothicNew-Bold.ttf",
     "docs/ogsp-prevention/docs/develop/wgpu.md",
     "docs/ogsp-prevention/docs/develop/iced-custom-font.md",
     "docs/ogsp-prevention/docs/develop/about-iced.md",
@@ -239,10 +242,6 @@
     "().md",
     "2025-01-18.md",
     "[[おかゆグループ地震センタ]].md",
-    "Excalidraw/OGSPシステム総合.png",
-    "2024-11-24.md",
-    "OGSP.md",
-    "Excalidraw/Drawing 2024-11-24 10.59.51.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-24 10.59.38.excalidraw.md"
+    "Excalidraw/OGSPシステム総合.png"
   ]
 }
