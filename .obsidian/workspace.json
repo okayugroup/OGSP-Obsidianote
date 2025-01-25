@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ogsp-disaster-prevention/docs/README.md",
+                "file": "docs/ogsp-disaster-prevention/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -49,8 +49,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,14 +201,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be0935af5913ea17",
+  "active": "9e2ce1604fc6aec2",
   "lastOpenFiles": [
+    "docs/ogsp-disaster-prevention/docs/README.md",
+    "docs/おかゆグループ地震計プロジェクト.md",
+    "docs/ogsp-disaster-prevention/README.md",
     "daily/yossy4411/2025-01-25.md",
     "docs/OGSP Disaster Prevention.md",
-    "docs/おかゆグループ地震計プロジェクト.md",
-    "docs/ogsp-disaster-prevention/docs/README.md",
     "README.md",
-    "docs/ogsp-disaster-prevention/README.md",
     "docs/ogsp-disaster-prevention/docs/user/_index.md",
     "docs/ogsp-disaster-prevention/docs/user",
     "docs/ogsp-disaster-prevention/docs/develop/_index.md",
