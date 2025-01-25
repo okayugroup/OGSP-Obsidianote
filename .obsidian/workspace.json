@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/yossy4411/2025-01-25.md",
+                "file": "docs/おかゆグループ地震計プロジェクト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-25"
+              "title": "おかゆグループ地震計プロジェクト"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/おかゆグループ地震計プロジェクト.md"
               },
               "icon": "lucide-list",
-              "title": "READMEのアウトライン"
+              "title": "おかゆグループ地震計プロジェクトのアウトライン"
             }
           },
           {
@@ -201,20 +202,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e2ce1604fc6aec2",
+  "active": "b43c08044ed7fd02",
   "lastOpenFiles": [
-    "震度計.md",
+    "docs/震度計.md",
+    "docs/震度計インストーラー.md",
+    "今後の予定.canvas",
+    "docs/おかゆグループ地震センタ.md",
+    "docs",
     "daily/yossy4411/2025-01-25.md",
     "README.md",
     "file.md",
     "daily/yossy4411",
-    "おかゆグループ地震計プロジェクト.md",
-    "今後の予定.canvas",
-    "おかゆグループ地震センタ.md",
+    "docs/おかゆグループ地震計プロジェクト.md",
     "LICENSE.md",
     "daily/yossy4411/2025-01-19.md",
     "Excalidraw/OGSPシステム総合.md",
-    "震度計インストーラー.md",
     "daily",
     "補完してるの図.png",
     "assets/Pasted image 20241126183623.png",

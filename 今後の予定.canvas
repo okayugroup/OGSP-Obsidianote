@@ -3,7 +3,7 @@
 		{"id":"e094387f0da1c3bf","type":"text","text":"OGSP","x":-500,"y":-120,"width":250,"height":60},
 		{"id":"b3d0d55a14250978","type":"text","text":"クライアント\n（フロントエンド）","x":-60,"y":-240,"width":220,"height":80},
 		{"id":"4257be9489eb5a48","type":"text","text":"サーバー（バックエンド）","x":-60,"y":70,"width":260,"height":60},
-		{"id":"32ee5156cf26914e","type":"file","file":"おかゆグループ地震計プロジェクトとは？.md","x":-590,"y":160,"width":340,"height":180},
+		{"id":"32ee5156cf26914e","type":"file","file":"docs/おかゆグループ地震計プロジェクト.md","x":-590,"y":160,"width":340,"height":180},
 		{"id":"74d0e2cd2666172a","type":"text","text":"おかゆグループ地震センター","x":320,"y":70,"width":334,"height":60},
 		{"id":"659cd127de30c85e","type":"text","text":"震度計","x":320,"y":-120,"width":118,"height":60},
 		{"id":"b05a4f0f910e0923","type":"text","text":"EarthQuake","x":320,"y":-360,"width":176,"height":60},
@@ -15,7 +15,7 @@
 		{"id":"adf314ec4ce7800d","type":"text","text":"気象庁","x":894,"y":-1123,"width":146,"height":63},
 		{"id":"07e5965a3cfaac68","type":"text","text":"国土地理院","x":540,"y":-1123,"width":162,"height":60},
 		{"id":"816c0540f03e103a","type":"text","text":"地震情報","x":800,"y":-660,"width":204,"height":60},
-		{"id":"508acf0e4e4706ce","x":800,"y":-548,"width":208,"height":60,"type":"text","text":"津波情報"},
+		{"id":"508acf0e4e4706ce","type":"text","text":"津波情報","x":800,"y":-548,"width":208,"height":60},
 		{"id":"148442fe631ba764","type":"text","text":"緊急地震速報","x":980,"y":-120,"width":204,"height":60}
 	],
 	"edges":[
