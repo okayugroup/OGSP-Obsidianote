@@ -49,12 +49,14 @@
             "id": "67fcc6def126a6f6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/OGSPシステム総合-20250113.png"
+                "file": "docs/おかゆグループ地震計プロジェクト.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "OGSPシステム総合-20250113"
+              "icon": "lucide-file",
+              "title": "おかゆグループ地震計プロジェクト"
             }
           }
         ],
@@ -130,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/無題-2024-11-24-0828.excalidraw.md",
+                "file": "docs/おかゆグループ地震計プロジェクト.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "無題-2024-11-24-0828.excalidrawへのバックリンク"
+              "title": "おかゆグループ地震計プロジェクトへのバックリンク"
             }
           },
           {
@@ -166,7 +168,7 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "タグ"
             }
           },
           {
@@ -192,11 +194,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,8 +212,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67fcc6def126a6f6",
+  "active": "5af81372775c6bd0",
   "lastOpenFiles": [
+    "Excalidraw/OGSPシステム総合-20250113.png",
     "Excalidraw/OGSPシステム総合.md",
     "docs/おかゆグループ地震計プロジェクト.md",
     "daily/yossy4411/2025-01-25.md",
@@ -253,8 +256,6 @@
     "無題のファイル.canvas",
     "assets/real-time-interpolation.png",
     "real-time-interpolation.svg",
-    "おかゆグループ地震計プロジェクトとは？.md",
-    "Excalidraw/OGSPシステム総合-20250113.png",
     "Excalidraw/OGSPシステム総合.png"
   ]
 }
