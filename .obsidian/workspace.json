@@ -58,9 +58,21 @@
               "icon": "lucide-file",
               "title": "おかゆグループ地震計プロジェクト"
             }
+          },
+          {
+            "id": "b03cd5c731cdf0a9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -79,7 +91,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "ファイルエクスプローラ"
@@ -177,7 +190,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/おかゆグループ地震計プロジェクト.md"
+                "file": "docs/おかゆグループ地震計プロジェクト.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "おかゆグループ地震計プロジェクトのアウトライン"
@@ -212,7 +228,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5af81372775c6bd0",
+  "active": "b03cd5c731cdf0a9",
   "lastOpenFiles": [
     "Excalidraw/OGSPシステム総合-20250113.png",
     "Excalidraw/OGSPシステム総合.md",
