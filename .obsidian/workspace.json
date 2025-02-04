@@ -58,21 +58,9 @@
               "icon": "lucide-file",
               "title": "おかゆグループ地震計プロジェクト"
             }
-          },
-          {
-            "id": "b03cd5c731cdf0a9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b03cd5c731cdf0a9",
+  "active": "67fcc6def126a6f6",
   "lastOpenFiles": [
     "Excalidraw/OGSPシステム総合-20250113.png",
     "Excalidraw/OGSPシステム総合.md",
