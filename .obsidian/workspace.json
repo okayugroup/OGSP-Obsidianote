@@ -193,12 +193,12 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -216,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67fcc6def126a6f6",
+  "active": "cad010e1a1984240",
   "lastOpenFiles": [
     "Excalidraw/OGSPシステム総合-20250113.png",
     "Excalidraw/OGSPシステム総合.md",
