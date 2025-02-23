@@ -28,14 +28,12 @@
             "id": "be0935af5913ea17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/OGSP防災アプリ.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/OGSPシステム総合-20250113.png"
               },
-              "icon": "lucide-file",
-              "title": "OGSP防災アプリ"
+              "icon": "lucide-image",
+              "title": "OGSPシステム総合-20250113"
             }
           },
           {
@@ -209,11 +207,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be0935af5913ea17",
+  "active": "cad010e1a1984240",
   "lastOpenFiles": [
+    "Excalidraw/OGSPシステム総合.md",
+    "docs/OGSP防災アプリ.md",
     "canvas/今後の予定.canvas",
     "docs/おかゆグループ地震計プロジェクト.md",
-    "docs/OGSP防災アプリ.md",
     "docs/ogsp-disaster-prevention/src/main.rs",
     "docs/ogsp-disaster-prevention/src/font.rs",
     "docs/ogsp-disaster-prevention/src",
@@ -236,7 +235,6 @@
     "daily/yossy4411/2025-01-25.md",
     "daily/yossy4411/2025-02-22.md",
     "Excalidraw/OGSPシステム総合-20250113.png",
-    "Excalidraw/OGSPシステム総合.md",
     "docs/おかゆグループ地震センタ.md",
     "OGSP.md",
     "README.md",
