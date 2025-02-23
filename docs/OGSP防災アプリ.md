@@ -5,4 +5,4 @@
 
 Rustで書かれた防災アプリです。
 
-詳しくは[README.md](./ogsp-disaster-prevention/README.md)を御覧ください。
+詳しくは[README.md](./ogsp-disaster-prevention/README.md)を御覧ください。pass
